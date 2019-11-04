@@ -5,7 +5,7 @@
 4. [Input files](README.md#input-files)
 5. [Output file](README.md#output-file)
 6. [Example](README.md#example)
-7. [Approach].(README.md#approach)
+7. [Approach](README.md#approach)
 
 # Introduction
 
