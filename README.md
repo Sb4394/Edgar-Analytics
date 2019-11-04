@@ -167,10 +167,11 @@ The fourth line belongs to IP address, `106.120.173.jie` because that user's fir
 
 The second session detected for `108.91.91.hbc` concludes the `sessionization.txt` file.
 
-# Approach
+## Approach
 
 The program first identifies the column headers and it's locations. It then read the input file line by line.
 We have a list for storing all ip addresses and a log dictonary containing the ip as the key and corresponding start time,end time, duration and web page count of it.
+
 If an ip is read for the first time,
 We simply update the dictionary with it's values, having start and end time as the same, duration count as 1 second and webpage count as 1
 Following that we append that ip into out list of ips.
