@@ -6,6 +6,8 @@
 5. [Output file](README.md#output-file)
 6. [Example](README.md#example)
 7. [Approach](README.md#approach)
+8. [Run Instructions](README.md#Run-Instructions)
+9. [Contact](README.md#contact)
 
 # Introduction
 
@@ -181,3 +183,10 @@ If not, we simply update the values in the log dictionary for the corresponding 
 
 At the end of the file, we end all sessions and append the remaining logs in the log dictionary into the output file
 
+# Run Instructions
+
+Running the run.sh file in the project root directory will run the script and produce the results in the specified format in specified folder
+
+# Contact
+
+sbm4394@gmail.com
